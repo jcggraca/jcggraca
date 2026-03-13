@@ -1,6 +1,6 @@
 # Hi, I'm João Graça 👋
 
-Frontend developer based in Portugal | React・JavaScript・TypeScript・Node.JS
+Frontend Engineer based in Portugal | React・JavaScript・TypeScript・Node.JS
 
 #### 📫 Let's Connect
 [Portfolio](https://joaograca.dev/) ・ [LinkedIn](https://www.linkedin.com/in/jcggraca/) ・ [Gitlab](https://gitlab.com/jcggraca)
