@@ -1,6 +1,9 @@
-## Hi there 👋
+# Hi, I'm João Graça 👋
 
-Moving to [![Gitlab](https://gitlab.com/assets/logo.svg)](https://gitlab.com/jcggraca)
+Frontend developer based in Portugal | React・JavaScript・TypeScript・Node.JS
+
+#### 📫 Let's Connect
+[Portfolio](https://joaograca.dev/) ・ [LinkedIn](https://www.linkedin.com/in/jcggraca/)
 
 <!--
 **jcggraca/jcggraca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,6 +16,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
