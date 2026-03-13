@@ -3,7 +3,7 @@
 Frontend developer based in Portugal | React・JavaScript・TypeScript・Node.JS
 
 #### 📫 Let's Connect
-[Portfolio](https://joaograca.dev/) ・ [LinkedIn](https://www.linkedin.com/in/jcggraca/)
+[Portfolio](https://joaograca.dev/) ・ [LinkedIn](https://www.linkedin.com/in/jcggraca/) ・ [Gitlab](https://gitlab.com/jcggraca)
 
 <!--
 **jcggraca/jcggraca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
